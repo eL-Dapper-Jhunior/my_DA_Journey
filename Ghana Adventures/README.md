@@ -65,7 +65,7 @@ An **interactive Power BI dashboard** was created to visualize:
 - Booking channels
 - Repeat vs new customer impact
 
-> 📌 *[https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Ghana%20Adventures/General_overview.png]*
+> 📌 [Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Ghana%20Adventures/General_overview.png)
 
 ---
 
