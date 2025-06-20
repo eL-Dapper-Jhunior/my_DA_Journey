@@ -111,7 +111,7 @@ An interactive dashboard showcasing:
 * Discount effectiveness
 * Customer segment insights
 
-> 🔗 [View the Dashboard](#) *(insert Power BI share link or screenshot)*
+> 🔗 [View the Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/XYZ/Retail%20Dashboard.png)
 
 ---
 
