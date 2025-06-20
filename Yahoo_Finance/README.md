@@ -60,17 +60,17 @@ We engineered multiple technical indicators to support analysis:
 ## 📈 Forecasting Models
 
 ### 🔷 ARIMA (AutoRegressive Integrated Moving Average)
-
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/stock%20price%20arima.png)
 * Used to capture autocorrelation in the closing price
 * Model order: (5,1,0)
 * Forecast: 30 days into the future
 * Performance:
-
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/Screenshot%20(179).png)
   * MAE: `1645.69`
   * RMSE: `1795.29`
 
 ### 🔮 Prophet
-
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/prophet%20forecast.png)
 * Decomposes trend and seasonality
 * Flexible and interpretable for business users
 * Forecasted 30-day forward prices with confidence intervals
@@ -84,6 +84,9 @@ We engineered multiple technical indicators to support analysis:
 * 💰 **Total Open**: `$835.39M`
 * 💰 **Total Close**: `$835.29M`
 * 🏆 **Top Index by Volume**:
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/Screenshot%20(180).png)
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/Screenshot%20(182).png)
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/Screenshot%20(181).png)
 
   * 1. `^GSPTSE`
   * 2. `^NYA`
@@ -100,7 +103,8 @@ These insights inform trading strategies, risk mitigation, and investment planni
 * Refit ARIMA model on training data
 * Forecasted future prices and compared with actuals
 * Optimized parameters and compared both models using:
-
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/stock%20forecast%20optimization.png)
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Yahoo_Finance/prophet%20in%20break_downs.png)
   * **MAE (Mean Absolute Error)**
   * **RMSE (Root Mean Squared Error)**
 
