@@ -50,7 +50,7 @@ This project explores a global **online retail dataset** to uncover key business
 - Customer Purchase Frequency  
 - Product Category Performance  
 
-📌 *![https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/OnlineRetail/Retail.png]*
+📌 *![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/OnlineRetail/Retail.png)*
 
 ---
 
