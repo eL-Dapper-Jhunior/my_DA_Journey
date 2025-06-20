@@ -56,7 +56,7 @@ Power BI dashboard showcases:
 - Purpose of investment by age group  
 - Popularity ranking of investment vehicles
 
->  [Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Investment/Dashboard.jpeg)
+>  ![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/Investment/Dashboard.jpeg)
 
 ---
 
