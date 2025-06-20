@@ -57,6 +57,7 @@ The dataset spans over **3 years of retail transactions**, including:
 ---
 
 ## 🔍 Insights & Findings
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/XYZ/Dashboard.png)
 
 ### ✅ Top-Selling Categories:
 
@@ -91,10 +92,13 @@ The dataset spans over **3 years of retail transactions**, including:
 * Modeled next **12 months** of sales.
 * Identified seasonal cycles and forecasted a **positive revenue trend**.
 * Used historical daily totals to project future growth.
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/XYZ/Prophet%20Forecast.png)
 
 ### 💡 Optimization Results (Linear Programming):
 
 To reach **\$50M revenue**, the model recommends:
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/XYZ/Screenshot%20(169).png)
+![Dashboard](https://github.com/eL-Dapper-Jhunior/my_DA_Journey/blob/main/XYZ/Screenshot%20(171).png)
 
 * **Electronics**: 500,000 units
 * **Home Decor**: 500,000 units
